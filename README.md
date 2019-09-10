@@ -10,3 +10,5 @@ OpenCart 2.2.0.0
 * Create a new directory in 'catalog/view/theme' named 'custom'
 * Copy the contents of opencart-theme-boilerplate to 'custom'
 * Install dependencies with 'bower install' and 'npm install'
+
+Forked from https://github.com/welfordmedia/opencart-theme-boilerplate
